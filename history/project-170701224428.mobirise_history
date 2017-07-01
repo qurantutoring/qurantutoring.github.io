@@ -318,11 +318,6 @@
             "Theme"
           ],
           "_name": "gallery4",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "text-align": "center"
-            }
-          },
           "_params": {
             "paddingTop": 0,
             "paddingBottom": 0,
@@ -418,23 +413,18 @@
           },
           "_anchor": "gallery4-7",
           "articleLayout": false,
-          "allItem": "All"
+          "allItem": "All",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
-          "_styles": {
-            "H3": {
-              "font-size": "24px",
-              "color": "#c0a375"
-            },
-            "B": {
-              "color": "#000000",
-              "font-size": "36px"
-            }
-          },
           "_anchor": "msg-box1-a",
           "_params": {
             "paddingTop": 3,
@@ -458,7 +448,17 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://tinyurl.com/jcvanac\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>BOOK YOUR TUTORS&nbsp;</a>",
           "text": "<b>EXPERIENCE PRIVATE TUTORS&nbsp;</b>",
-          "title": "AVAILABLE FOR GROUP  HOME &amp; ONLINE TUTORINGS"
+          "title": "AVAILABLE FOR GROUP  HOME &amp; ONLINE TUTORINGS",
+          "_styles": {
+            "H3": {
+              "font-size": "24px",
+              "color": "#c0a375"
+            },
+            "B": {
+              "color": "#000000",
+              "font-size": "36px"
+            }
+          }
         },
         {
           "_tags": [
@@ -706,7 +706,7 @@
           "text4": "alquran_tutoring@outlook.com&nbsp;",
           "title1": "Categories",
           "text5": "<li>Find a Tutor</li><li>Design</li><li>Real life</li><li>Science</li><li>Tech</li>",
-          "text6": "<strong>Contacts</strong><br>Email: alquran_tutoring@outlook.com<br>Phone: +92 333 5361092<br>skype: alquranonlinetutoring<br><br><br><strong>Address</strong><br>world wide web",
+          "text6": "<strong>Contacts</strong><br>Email: Alquran_tutoring@outlook.com<br>Phone: +92 333 5361092<br>skype: alquranonlinetutoring<br><br><br><strong>Address</strong><br>world wide web",
           "form": {
             "title": "MESSAGE",
             "action": "syd_waqas@yahoo.com",

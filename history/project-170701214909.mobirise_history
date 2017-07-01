@@ -22,13 +22,12 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 11,
+    "uniqCompNum": 7,
     "versionPublish": "3.12.1",
     "publishFtpPath": "public_html",
     "publishType": "github",
     "gitHubName": "qurantutoring",
-    "gitHubPath": "",
-    "publishPath": "@PROJECT_PATH@"
+    "gitHubPath": ""
   },
   "pages": {
     "index.html": {
@@ -127,8 +126,8 @@
               "color": "#ffffff"
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-desktop mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>AL QURAN ONLINE TUTORING</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">TUTORS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">BECOME TUTOR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"socicon socicon-skype mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>ALQURAN_TUTORING@OUTLOOK.COM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 197, 28);\"></span>CALL NOW +92 333 5361092</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-desktop mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>AL QURAN ONLINE TUTORING</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">TUTORS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">BECOME TUTOR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><span class=\"socicon socicon-skype mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>ALQURAN_TUTORING@OUTLOOK.COM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 197, 28);\"></span>CALL NOW +92 333 5361092</a></li>"
         },
         {
           "_tags": [
@@ -179,7 +178,7 @@
           },
           "title": "<span style=\"line-height: 1.1;\">AL QURAN ONLINE TUTORING&nbsp;</span><br>",
           "text": "<span style=\"font-size: 1.5rem; text-align: left; line-height: 1.5;\">Why Just Quran Teaching ?</span><br>Quran Teaching provides very easy and authentic <br>online methods so that anyone of any age group and <br>educational background can join us and avail the <br>opportunity easily.<br><br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Learn The Holy Quran The Way&nbsp;</span>You Never&nbsp;Experienced before<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>BOOK YOUR TUTOR NOW</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>BECOME QURAN TUTOR</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>BOOK YOUR QURAN TUTOR NOW</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>BECOME QURAN TUTOR</a>"
         },
         {
           "_tags": [
@@ -228,7 +227,7 @@
           },
           "title": "Why Just Quran Teaching ?",
           "text": "Quran Teaching provides very easy and authentic online methods so that anyone of any age group and educational background can join us and avail the opportunity easily.<br><br>Moreover, the best feature is that you can choose time and day of your own choice and availability..",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>BOOK YOUR TUTOR NOW</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>BOOK YOUR QURAN TUTOR NOW</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -287,178 +286,7 @@
           },
           "title": "The World's Most Experienced<div>And Trusted Institute for Quran Learning</div>",
           "text": "<p>To get started with the program that has enlightened the hearts of thousands of students all over the world with the noor of the Holy Quran, all you need is a computer with headphones and internet connection.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>BOOK YOUR TUTOR NOW</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "SMALL": {
-              "font-size": "25px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-8",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "TUTORING GALAXY CONNECT YOU&nbsp;",
-          "meta": "WITH THE BEST LOCAL &amp; <b>ONLINE</b> TUTORS<br><br><b>WWW.TUTORINGGALAXY.COM</b>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery4",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/computer-science-tutors-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/computer-science-tutors-2000x2000.png",
-                "caption": "<a href=\"http://www.tutoringgalaxy.com\" target=\"_blank\"><b>Computer Tutors</b></a>",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/chemistry-tutors-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/chemistry-tutors-2000x2000.png",
-                "caption": "<b><a href=\"http://http://www.tutoringgalaxy.com\" target=\"_blank\">Chemistry Tutors</a></b>",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/biology-tutors-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/biology-tutors-2000x2000.png",
-                "caption": "<b><a href=\"http://www.tutoringgalaxy.com\" target=\"_blank\">Biology Tutors</a></b>",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mathematics-tutors-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/mathematics-tutors-2000x2000.png",
-                "caption": "<b><a href=\"http://www.tutoringgalaxy.com\" target=\"_blank\">Maths Tutors</a></b>",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/physics-tutors-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/physics-tutors-2000x2000.png",
-                "caption": "<b><a href=\"http://www.tutoringgalaxy.com\" target=\"_blank\">Physics Tutors</a></b>",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/business-subjects-tutors-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/business-subjects-tutors-2000x2000.png",
-                "caption": "<b><a href=\"http://www.tutoringgalaxy.com\" target=\"_blank\">Business Subject Tutors&nbsp;</a></b>",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/english-language-tutors-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/english-language-tutors-2000x2000.png",
-                "caption": "<b><a href=\"http://www.tutoringgalaxy.com\" target=\"_blank\">English Tutors</a></b>",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/admission-test-tutors-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/admission-test-tutors-2000x2000.png",
-                "caption": "<b><a href=\"http://www.tutoringgalaxy.com\" target=\"_blank\">Admission Test Tutors</a></b>",
-                "active": true
-              }
-            ],
-            "spacing": 1,
-            "showText": true,
-            "filter": false,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery4-7",
-          "articleLayout": false,
-          "allItem": "All"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_styles": {
-            "H3": {
-              "font-size": "24px",
-              "color": "#c0a375"
-            },
-            "B": {
-              "color": "#000000",
-              "font-size": "36px"
-            }
-          },
-          "_anchor": "msg-box1-a",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showText": true,
-            "showTitle": true
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://tinyurl.com/jcvanac\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>BOOK YOUR TUTORS&nbsp;</a>",
-          "text": "<b>EXPERIENCE PRIVATE TUTORS&nbsp;</b>",
-          "title": "AVAILABLE FOR GROUP  HOME &amp; ONLINE TUTORINGS"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>BOOK YOUR QURAN TUTOR NOW</a>"
         },
         {
           "_tags": [
@@ -706,7 +534,7 @@
           "text4": "alquran_tutoring@outlook.com&nbsp;",
           "title1": "Categories",
           "text5": "<li>Find a Tutor</li><li>Design</li><li>Real life</li><li>Science</li><li>Tech</li>",
-          "text6": "<strong>Contacts</strong><br>Email: alquran_tutoring@outlook.com<br>Phone: +92 333 5361092<br>skype: alquranonlinetutoring<br><br><br><strong>Address</strong><br>world wide web",
+          "text6": "<strong>Contacts</strong><br>Email: Alquran_tutoring@outlook.com<br>Phone: +92 333 5361092<br>skype: alquranonlinetutoring<br><br><br><strong>Address</strong><br>www",
           "form": {
             "title": "MESSAGE",
             "action": "syd_waqas@yahoo.com",
