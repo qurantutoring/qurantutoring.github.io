@@ -498,6 +498,24 @@ h6,
 #msg-box4-3 H3 {
   font-size: 36px;
 }
+#header3-8 .mbr-section-title,
+#header3-8 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-8 SMALL {
+  font-size: 25px;
+}
+#gallery4-7 .mbr-gallery-item > div > span {
+  text-align: center;
+}
+#msg-box1-a H3 {
+  font-size: 24px;
+  color: #c0a375;
+}
+#msg-box1-a B {
+  color: #000000;
+  font-size: 36px;
+}
 #msg-box2-5 .mbr-section-title {
   color: #fff;
 }
