@@ -23,11 +23,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 7,
-    "versionPublish": "3.12.1",
-    "publishFtpPath": "public_html",
-    "publishType": "github",
-    "gitHubName": "qurantutoring",
-    "gitHubPath": ""
+    "versionPublish": "3.12.1"
   },
   "pages": {
     "index.html": {
