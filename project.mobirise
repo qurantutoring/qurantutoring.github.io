@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "AL QURAN ONLINE TUTORING",
+    "name": "AL QURAN TUTORING",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -24,11 +24,10 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 11,
     "versionPublish": "3.12.1",
-    "publishFtpPath": "public_html",
-    "publishType": "github",
-    "gitHubName": "qurantutoring",
-    "gitHubPath": "",
-    "publishPath": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-05-30-at-2-128x87.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -128,7 +127,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-desktop mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>AL QURAN ONLINE TUTORING</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">TUTORS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">BECOME TUTOR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"socicon socicon-skype mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>ALQURAN_TUTORING@OUTLOOK.COM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 197, 28);\"></span>CALL NOW +92 333 5361092</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSeWE-uhYXtqzgSmI2vu07HebXFV71Xm7pSp4rKm6Tz6tqr_-Q/viewform\" target=\"_blank\">TUTORS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSeWE-uhYXtqzgSmI2vu07HebXFV71Xm7pSp4rKm6Tz6tqr_-Q/viewform\" target=\"_blank\">BECOME TUTOR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"socicon socicon-skype mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>ALQURAN_TUTORING@OUTLOOK.COM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 197, 28);\"></span>CALL NOW +92 333 5361092</a></li>"
         },
         {
           "_tags": [
@@ -179,7 +178,7 @@
           },
           "title": "<span style=\"line-height: 1.1;\">AL QURAN ONLINE TUTORING&nbsp;</span><br>",
           "text": "<span style=\"font-size: 1.5rem; text-align: left; line-height: 1.5;\">Why Just Quran Teaching ?</span><br>Quran Teaching provides very easy and authentic <br>online methods so that anyone of any age group and <br>educational background can join us and avail the <br>opportunity easily.<br><br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Learn The Holy Quran The Way&nbsp;</span>You Never&nbsp;Experienced before<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>BOOK YOUR TUTOR NOW</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>BECOME QURAN TUTOR</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSeWE-uhYXtqzgSmI2vu07HebXFV71Xm7pSp4rKm6Tz6tqr_-Q/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>BOOK YOUR TUTOR NOW</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSeWE-uhYXtqzgSmI2vu07HebXFV71Xm7pSp4rKm6Tz6tqr_-Q/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>BECOME QURAN TUTOR</a>"
         },
         {
           "_tags": [
@@ -228,7 +227,7 @@
           },
           "title": "Why Just Quran Teaching ?",
           "text": "Quran Teaching provides very easy and authentic online methods so that anyone of any age group and educational background can join us and avail the opportunity easily.<br><br>Moreover, the best feature is that you can choose time and day of your own choice and availability..",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>BOOK YOUR TUTOR NOW</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSeWE-uhYXtqzgSmI2vu07HebXFV71Xm7pSp4rKm6Tz6tqr_-Q/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>BOOK YOUR TUTOR NOW</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -287,7 +286,7 @@
           },
           "title": "The World's Most Experienced<div>And Trusted Institute for Quran Learning</div>",
           "text": "<p>To get started with the program that has enlightened the hearts of thousands of students all over the world with the noor of the Holy Quran, all you need is a computer with headphones and internet connection.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>BOOK YOUR TUTOR NOW</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSeWE-uhYXtqzgSmI2vu07HebXFV71Xm7pSp4rKm6Tz6tqr_-Q/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>BOOK YOUR TUTOR NOW</a>"
         },
         {
           "_styles": {
@@ -600,7 +599,7 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>BOOK YOUR TUTOR</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSeWE-uhYXtqzgSmI2vu07HebXFV71Xm7pSp4rKm6Tz6tqr_-Q/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>BOOK YOUR TUTOR</a>",
           "title": "ARE YOU READY TO BOOK ?&nbsp;",
           "text": "QURAN HOME TUTORS &amp; ONLINE QURAN TUTOR"
         },
@@ -705,7 +704,7 @@
           },
           "text4": "alquran_tutoring@outlook.com&nbsp;",
           "title1": "Categories",
-          "text5": "<li>Find a Tutor</li><li>Design</li><li>Real life</li><li>Science</li><li>Tech</li>",
+          "text5": "<li><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSeWE-uhYXtqzgSmI2vu07HebXFV71Xm7pSp4rKm6Tz6tqr_-Q/viewform\" target=\"_blank\">Find a Tutor</a></li><li>Tajweed Make Easy&nbsp;</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Tajweed Intense&nbsp;</span></li><li>Hifz Program<br></li>",
           "text6": "<strong>Contacts</strong><br>Email: alquran_tutoring@outlook.com<br>Phone: +92 333 5361092<br>skype: alquranonlinetutoring<br><br><br><strong>Address</strong><br>world wide web",
           "form": {
             "title": "MESSAGE",
