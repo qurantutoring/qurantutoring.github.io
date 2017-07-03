@@ -185,6 +185,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box5-2",
           "_params": {
             "imageSize": 50,
@@ -225,8 +233,8 @@
               "size": 0
             }
           },
-          "title": "Why Just Quran Teaching ?",
-          "text": "Quran Teaching provides very easy and authentic online methods so that anyone of any age group and educational background can join us and avail the opportunity easily.<br><br>Moreover, the best feature is that you can choose time and day of your own choice and availability..",
+          "title": "<br>Highlights of Courses&nbsp;",
+          "text": "<br>One on one attention to each student.<br>Interactive Tajweed courses<br>Developed proper accent of arabic letters<br>Learn and apply all rules of tajweed.<br>24/7 access to resource materials and recordings<br>Practice surah with the help of teacher.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSeWE-uhYXtqzgSmI2vu07HebXFV71Xm7pSp4rKm6Tz6tqr_-Q/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>BOOK YOUR TUTOR NOW</a>"
         },
         {
